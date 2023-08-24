@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharath-BJ
 - 👀 I’m interested in Web-development
-- 🌱 I’m learnt MERN stack web development from Coding Ninjas
+- 🌱 I’ve learnt MERN stack web development from Coding Ninjas
 - 💞️ I’m looking to collaborate on all elements of designing a website from the scratch
 - 📫 How to reach me bharath994420@gmail.com
 - 🌐 Can get to know through my website https://bharath-bj.github.io/My-Personal-Portfolio/
